@@ -1,0 +1,4 @@
+Test_Case,Churn_Probability,Churn_Prediction,Risk_Level,Recommended_Action,HTTP_Status
+Low Risk Customer,0.0373,No,Low Risk,Normal Customer Management,200
+Medium Risk Customer,0.5659,Yes,Medium Risk,Monitor and Engage,200
+High Risk Customer,0.8918,Yes,High Risk,Immediate Retention Action,200
